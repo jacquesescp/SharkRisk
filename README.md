@@ -32,6 +32,6 @@ This folder contains all the Python scripts and notebooks related to the core an
 
 This folder contains the final deliverables (reports) and the notebooks used to create them.
 
-* **Report Generation Notebooks:** Jupyter notebooks used to generate the data, visualizations, and text for the final reports (e.g., `Collaboration Report Generation.ipynb`, `Final Report Generation.ipynb`).
+* **Report Generation Notebooks:** Jupyter notebooks used to generate the data, visualizations, and text for the final reports (e.g., `CollaborationReportGeneration.ipynb`, `ReportGeneration.ipynb`).
 * Contains all images that were generated and included in the final reports.
 * **PDF Reports:** The final submitted versions of the **Collaboration Report** and the **Final Report** in PDF format.
