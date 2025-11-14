@@ -1,4 +1,4 @@
-# Shark Risk
+![Shark Risk logo](https://github.com/jacquesescp/DSforAM_group10/blob/main/Reports%20%26%20Generation%20Notebooks/sharkrisk_logo.png)
 
 This repository contains the project work for the **Data Science for Asset Management** course, part of the Master in Management (MIM) programme.
 
