@@ -1,4 +1,4 @@
-# Data Science for Asset Management Project
+# Shark Risk
 
 This repository contains the project work for the **Data Science for Asset Management** course, part of the Master in Management (MIM) programme.
 
