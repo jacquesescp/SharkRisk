@@ -1,6 +1,6 @@
 <img src="https://github.com/jacquesescp/DSforAM_group10/blob/main/Reports%20%26%20Generation%20Notebooks/sharkrisk_logo.png" alt="SharkRisk Logo" width="300" />
 
-This repository contains the project work for the **Data Science for Asset Management** course, part of the Master in Management (MIM) programme.
+This repository contains the project work of the group 10 for the **Data Science for Asset Management** course, part of the Master in Management (MIM) programme.
 
 * **Institution:** ESCP Business School, London Campus
 * **Programme:** Master in Management (MIM)
